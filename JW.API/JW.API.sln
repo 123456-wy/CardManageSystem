@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JW.API", "JW.API\JW.API.csproj", "{F63FA249-6942-4E41-BC95-65095CF2F00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JW-CardUI", "JW-Card\JW-CardUI.csproj", "{183378F7-34DF-4383-8487-96434D79F6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63FA249-6942-4E41-BC95-65095CF2F00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63FA249-6942-4E41-BC95-65095CF2F00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63FA249-6942-4E41-BC95-65095CF2F00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63FA249-6942-4E41-BC95-65095CF2F00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183378F7-34DF-4383-8487-96434D79F6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183378F7-34DF-4383-8487-96434D79F6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183378F7-34DF-4383-8487-96434D79F6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183378F7-34DF-4383-8487-96434D79F6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0142DD8E-A27C-42B6-B064-99E7B31E220C}
+	EndGlobalSection
+EndGlobal
